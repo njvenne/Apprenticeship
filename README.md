@@ -23,3 +23,4 @@ The sensors that have been tested include
   - ultrasonic sensor
   - color sensor
 
+![](../master/Capture.png)
