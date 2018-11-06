@@ -1,4 +1,5 @@
-# Apprenticeship
+# Goals of Project
+
 
 # Robot 1
 Build Instructions
@@ -23,5 +24,3 @@ The sensors that have been tested include
   - ultrasonic sensor
   - color sensor
 
-
-<img src="/Capture.png" alt="My cool logo"/>
