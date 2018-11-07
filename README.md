@@ -1,4 +1,4 @@
-# Goals of Project
+
 
 
 # Robot 1
