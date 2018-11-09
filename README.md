@@ -1,5 +1,29 @@
 
+# Sensors
+Ultrasonic Sensor
+  - Detect obstacles in path
+  - Detect when given an object
+  - Determine distance from a person
+  - Find distance between itself and walls
+  
+Touch Sensor
+  - Detect when someone walks into it
+  - Detect when the robot reaches a wall
+  - Detect when a robot is picked up
+  
+Gyro Sensor
+  - Maintain balance
+  - Detect when the robot falls over
+  - Determine the right way to hold an object
 
+Color Sensor
+  - Follow lines on the ground
+  - Sort objects by color
+
+Motors
+  - Reorient hands
+  - Turn entire body
+  - Move forward
 
 # Robot 1
 Build Instructions
